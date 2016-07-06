@@ -19,6 +19,13 @@ body {
   margin: 0.25em 0;
  }
 
+.f1 { font-size: 8rem; }
+.f2 { font-size: 6rem; }
+.f3 { font-size: 3rem; }
+.f4 { font-size: 2.5rem; }
+.f5 { font-size: 2rem; }
+.f6 { font-size: 1.75rem; }
+
 @media only screen and (min-width : 30rem) {
   .giant-title { font-size: 2rem }
 }
@@ -41,4 +48,8 @@ body {
 
 q {
   font-style: italic;
+}
+
+.copy {
+
 }
