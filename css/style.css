@@ -42,3 +42,7 @@ body {
 .copy {
 
 }
+
+q {
+  font-style: italic;
+}
