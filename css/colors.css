@@ -67,3 +67,10 @@
   background-color: #ed1c40;
   color: #21e8b2;
 }
+
+a,
+a:link,
+a:visited,
+a:hover {
+  color: white;
+}
